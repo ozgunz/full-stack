@@ -9,7 +9,7 @@ Bu proje iş görüşmem için, ayrıca Larvel, Vue, Vuex (full stack web develo
 - NodeJS
 - Composer
 
-##Proje'nin Local Ortama Kurulması
+## Proje'nin Local Ortama Kurulması
 
 1) `git clone git@github.com:ozgunz/full-stack.git`
 2) .env.example dosyası -> .env olarak isimlendirilir ve MySQL bilgileri girilir.
@@ -29,7 +29,7 @@ Bu proje iş görüşmem için, ayrıca Larvel, Vue, Vuex (full stack web develo
 ## Frontend & Vue
 `~/resources/js/app.js` kısmında Vue ile ilgili yapılandırmalar ve Component'ler incelenebilir.
 
-##Ekran görüntüleri
+## Ekran görüntüleri
 
 ![Image of Yaktocat](https://i.hizliresim.com/STMbys.png)
 
